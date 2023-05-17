@@ -4,3 +4,12 @@ All of our results are based on data analysis. We have imported all the data on 
 ```
 data_dir = "/scratch/tn2208/puffer/puffer-data-release"
 ```
+
+[puffer-plots.ipynb](puffer-plots.ipynb) contains analysis of
+* 2020 Comparisons
+* Streaming metrics throughout the day
+* Stall Occurrences
+* Startup Time Comparison
+
+[puffer-corr.ipynb](puffer-corr.ipynb) contains analysis of
+* Feature Correlations
